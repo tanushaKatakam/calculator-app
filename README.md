@@ -1,0 +1,1 @@
+This is a simple calculator application that supports four fundamental arithmetic operations. This application provides a user-friendly interface, handles integer and floating point numbers, handles errors and provides a clean output.
